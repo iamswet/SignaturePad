@@ -14,3 +14,7 @@ body {
 canvas {
     border: 1px solid #000;
 }
+
+.canva{
+    border:5px solid black;
+}
