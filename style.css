@@ -12,9 +12,17 @@ body {
 }
 
 canvas {
-    border: 1px solid #000;
+    border: 5px solid black;
 }
 
-.canva{
-    border:5px solid black;
+.controls {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+select {
+    margin-right: 20px;
 }
